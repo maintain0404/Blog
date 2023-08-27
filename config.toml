@@ -1,5 +1,5 @@
 baseURL = "https://examplesite.com/"
-title = "Cogito, ergo sum"
+title = "Taein.dev"  # brower tab title
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -15,8 +15,8 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "Cogito, ergo sum"
-description = ""
+title = "Taein.dev"
+description = "Act decisively. Stay generous. Be professional."
 keywords = [ "Blog"]
 author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
@@ -47,30 +47,9 @@ tocopen = false
   # safari_pinned_tab = "<link / abs url>"
 
   [params.label]
-  text = "Cogito, ergo sum"
+  text = "Taein.dev"  # Header left-side title
   icon = "/apple-touch-icon.png"
   iconHeight = 35
-
-  [params.profileMode]
-  enabled = false
-  title = "ExampleSite"
-  subtitle = "This is subtitle"
-  imageUrl = "<img location>"
-  imageWidth = 120
-  imageHeight = 120
-  imageTitle = "my image"
-
-    [[params.profileMode.buttons]]
-    name = "Posts"
-    url = "posts"
-
-    [[params.profileMode.buttons]]
-    name = "Tags"
-    url = "tags"
-
-  [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Cogito, ergo sum."
 
   [[params.socialIcons]]
   name = "github"
@@ -99,17 +78,32 @@ tocopen = false
   minMatchCharLength = 0
   keys = [ "title", "permalink", "summary", "content" ]
 
+  # [params.profileMode]
+  # enabled = false
+  # title = "Taein Min"
+  # subtitle = "Act decisively. Stay generous. Be professional."
+  # imageUrl = "/resources/_gen/images/TaeinMinProfile.jpeg"
+  # imageWidth = 120
+  # imageHeight = 120
+  # imageTitle = "Profile Image"
+
+  #   [[params.profileMode.buttons]]
+  #   name = "Posts"
+  #   url = "posts"
+
+  #   [[params.profileMode.buttons]]
+  #   name = "Tags"
+  #   url = "tags"
+
+  [params.homeInfoParams]
+  Title = "Taein Min"
+  Content = "Act decisively. Stay generous. Be professional."
+
 [[menu.main]]
 identifier = 'archives'
 name = 'archives'
 url = '/archives'
 weight = 30
-
-[[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
-weight = 10
 
 [[menu.main]]
 identifier = "tags"
