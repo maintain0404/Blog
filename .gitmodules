@@ -1,6 +1,6 @@
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
-	url = https://github.com/adityatelange/hugo-PaperMod.git
+	url = https://github.com/maintain0404/hugo-PaperMod.git
 [submodule "public"]
 	path = public
 	url = https://github.com/maintain0404/maintain0404.github.io.git
