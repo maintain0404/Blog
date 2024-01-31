@@ -1,5 +1,5 @@
 ---
-title: Reflex 사용 후 느낌 점(with 간단한 팁)
+title: Reflex 사용 후 느낀 점(with 간단한 팁)
 summary: 새로운 풀 스택 python 프레임워크를 약 8개월간 사용해보고 느낀 점과 간단한 팁을 공유합니다.
 date: 2024-01-07T23:34:26+09:00
 draft: false
@@ -8,7 +8,7 @@ tags:
   - ASGI
   - Reflex
   - Frontend
-showToc: true
+showToc: false
 ---
 ## 들어가기 전에
 이 글은 reflex를 사용한 경험을 공유하고, reflex 사용 시 유의해야 할 점과 팁을 공유합니다. [reflex 프레임워크](https://reflex.dev/)에 관한 지식이 있거나 사용을 고민하고 있다면 좋습니다. 이 프레임워크를 추천하는지 아닌지가 궁금하시다면 결론부터 보시면 되겠습니다.
