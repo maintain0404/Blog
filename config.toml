@@ -6,7 +6,6 @@ enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-googleAnalytics = "UA-123-45"
 pygmentsUseClasses = true
 
 [minify]
@@ -55,15 +54,6 @@ tocopen = false
   name = "github"
   url = "https://github.com/maintain0404"
 
-# [params.analytics.google]
-# SiteVerificationTag = "XYZabc"
-
-# [params.analytics.bing]
-# SiteVerificationTag = "XYZabc"
-
-# [params.analytics.yandex]
-# SiteVerificationTag = "XYZabc"
-
   [params.cover]
   hidden = true
   hiddenInList = true
@@ -99,23 +89,29 @@ tocopen = false
   Title = "Taein Min"
   Content = "Act decisively. Stay generous. Be professional."
 
-[[menu.main]]
-identifier = 'archives'
-name = 'archives'
-url = '/archives'
-weight = 30
+[menus]
+  [[menus.main]]
+  identifier = 'archives'
+  name = 'archives'
+  url = '/archives'
+  weight = 30
 
-[[menu.main]]
-identifier = "tags"
-name = "tags"
-url = "/tags/"
-weight = 20
+  [[menus.main]]
+  identifier = "tags"
+  name = "tags"
+  url = "/tags/"
+  weight = 20
 
-[[menu.main]]
-identifier = 'search'
-name = 'search'
-url = '/search/'
-weight = 40
+  [[menus.main]]
+  identifier = 'search'
+  name = 'search'
+  url = '/search/'
+  weight = 40
 
-[markup.highlight]
-noClasses = false
+[services]
+  [services.googleAnalytics]
+    id = 'G-HBTP6KYQ2X'
+
+[markup]
+  [markup.highlight]
+  noClasses = false
