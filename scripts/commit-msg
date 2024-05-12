@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Commit message"
+ecoh $2
+exit 

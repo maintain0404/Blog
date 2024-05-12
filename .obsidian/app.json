@@ -1,0 +1,10 @@
+{
+  "userIgnoreFilters": [
+    "themes/",
+    "public/",
+    "resources/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/posts",
+  "alwaysUpdateLinks": true
+}
