@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb517237d30be50",
+        "id": "d45e581ccd711419",
         "type": "tabs",
         "children": [
           {
-            "id": "1bbda4d64e335c29",
+            "id": "6d4e7c30c89f91ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/htmx_guide.ko.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/htmx_guide.ko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/htmx_guide.ko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/htmx_guide.ko.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,44 +147,44 @@
       "templates:Insert template": false
     }
   },
-  "active": "1bbda4d64e335c29",
+  "active": "6d4e7c30c89f91ff",
   "lastOpenFiles": [
-    "public/tags/infra/page/1/index.html",
-    "public/tags/infra/page/1",
-    "public/tags/infra/page",
-    "public/tags/infra/index.xml",
-    "public/tags/infra/index.html",
-    "public/tags/infra",
-    "public/tags/cloud/page/1/index.html",
-    "public/tags/cloud/page/1",
-    "public/tags/cloud/page",
-    "public/tags/cloud/index.xml",
-    "public/tags/cloud/index.html",
-    "content/posts/starting_small_service.ko.md",
+    "public/tags/supabase/page/1/index.html",
+    "public/tags/supabase/page/1",
+    "public/tags/supabase/page",
+    "public/tags/supabase/index.xml",
+    "public/tags/supabase/index.html",
+    "public/tags/supabase",
+    "public/tags/postgres/page/1/index.html",
+    "public/tags/postgres/page/1",
+    "public/tags/postgres/index.xml",
+    "public/tags/postgres/page",
+    "public/tags/postgres/index.html",
+    "content/posts/analysis_my_writing.ko.md",
+    "content/posts/ASGI_deep_dive.ko.md",
+    "content/posts/develop_asgi_server_1.ko.md",
+    "content/posts/enum_in_rust.ko.md",
+    "content/posts/first_product_release_review.ko.md",
+    "content/posts/htmx_guide.ko.md",
+    "content/posts/reset-product.md",
+    "content/posts/supabase-tips.ko.md",
+    "content/posts/supabase-tips.md",
+    "content/posts/reflex_review.ko.md",
     "content/posts/pyweb_symposium_2024_review.ko.md",
     "content/posts/thinking_of_clean_code.ko copy.md",
-    "content/posts/resource_managing_in_software.ko.md",
-    "content/posts/udemy_review_1.ko.md",
-    "content/posts/ko.md",
-    "content/posts/go_convention_review_by_go_newbie.ko.md",
-    "content/posts/htmx_guide.ko.md",
     "content/posts/thinking_of_clean_code.ko.md",
-    "content/posts/enum_in_rust.ko.md",
-    "content/posts/reflex_review.ko.md",
-    "content/posts/develop_asgi_server_2.ko.md",
-    "content/posts/develop_asgi_server_1.ko.md",
-    "content/posts/codetree_review.ko.md",
-    "content/posts/first_product_release_review.ko.md",
-    "content/posts/ASGI_deep_dive.ko.md",
-    "content/posts/analysis_my_writing2.ko.md",
-    "content/posts/analysis_my_writing.ko.md",
-    "content/posts/analysis_my_writing.k.md",
     "content/posts/beware_of_architecture.ko.md",
-    "content/posts/thinking_of_clean_code.ko 1.md",
-    "content/posts/thinking_of_type.ko.md",
-    "content/posts/AI의 미래 - MeetUpLab 1차.md",
-    "content/archives.md",
-    "content/topics.md",
+    "content/posts/FastAPI -> Litestar.md",
+    "content/posts/go_convention_review_by_go_newbie.ko.md",
+    "content/posts/resource_managing_in_software.ko.md",
+    "content/posts/starting_small_service.ko.md",
+    "content/posts/codetree_review.ko.md",
+    "content/posts/develop_asgi_server_2.ko.md",
+    "content/posts/Untitled.md",
+    "content/posts/udemy_review_1.ko.md",
+    "content/posts/analysis_my_writing2.ko.md",
+    "content/posts/2024-10-13.md",
+    "content/posts/2024-10-04.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
